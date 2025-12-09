@@ -13,9 +13,9 @@ const seedData = async () => {
         await Movie.deleteMany({});
         await Person.deleteMany({});
 
-        const awards = require("./awards.json");
-        const movies = require("./movies.json");
-        const people = require("./people.json");
+        const awards = require("../data/awards.json");
+        const movies = require("../data/movies.json");
+        const people = require("../data/people.json");
 
         await Award.insertMany(awards);
         await Movie.insertMany(movies);

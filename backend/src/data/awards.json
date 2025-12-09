@@ -1,0 +1,36 @@
+[
+    {"year": 2020, "category": "Best Picture", "winningMovie": "Parasite", "winningPerson": null},
+    {"year": 2020, "category": "Best Director", "winningMovie": null, "winningPerson": "Bong Joon Ho"},
+    {"year": 2020, "category": "Best Actor", "winningMovie": null, "winningPerson": "Joaquin Phoenix"},
+    {"year": 2020, "category": "Best Actress", "winningMovie": null, "winningPerson": "Renée Zelweger"},
+    {"year": 2020, "category": "Best Supporting Actor", "winningMovie": null, "winningPerson": "Brad Pitt"},
+    {"year": 2020, "category": "Best Supporting Actress", "winningMovie": null, "winningPerson": "Laura Dern"},
+
+    {"year": 2021, "category": "Best Picture", "winningMovie": "Nomadland", "winningPerson": null},
+    {"year": 2021, "category": "Best Director", "winningMovie": null, "winningPerson": "Chloe Zhao"},
+    {"year": 2021, "category": "Best Actor", "winningMovie": null, "winningPerson": "Anthony Hopkins"},
+    {"year": 2021, "category": "Best Actress", "winningMovie": null, "winningPerson": "Frances McDormand"},
+    {"year": 2021, "category": "Best Supporting Actor", "winningMovie": null, "winningPerson": "Daniel Kaluuya"},
+    {"year": 2021, "category": "Best Supoorting Actress", "winningMovie": null, "winningPerson": "Youn Yuh-jung"},
+
+    {"year": 2022, "category": "Best Picture", "winningMovie": "CODA", "winningPerson": null},
+    {"year": 2022, "category": "Best Director", "winningMovie": null, "winningPerson": "Jane Campion"},
+    {"year": 2022, "category": "Best Actor", "winningMovie": null, "winningPerson": "Will Smith"},
+    {"year": 2022, "category": "Best Actress", "winningMovie": null, "winningPerson": "Jessica Chastain"},
+    {"year": 2022, "category": "Best Supporting Actor", "winningMovie": null, "winningPerson": "Troy Kotsur"},
+    {"year": 2022, "category": "Best Supoorting Actress", "winningMovie": null, "winningPerson": "Ariana DeBose"},
+
+    {"year": 2023, "category": "Best Picture", "winningMovie": "Everything Everywhere All At Once", "winningPerson": null},
+    {"year": 2023, "category": "Best Director", "winningMovie": null, "winningPerson": "Daniel Kwan and Daniel Scheinert"},
+    {"year": 2023, "category": "Best Actor", "winningMovie": null, "winningPerson": "Brendan Fraser"},
+    {"year": 2023, "category": "Best Actress", "winningMovie": null, "winningPerson": "Michelle Yeoh"},
+    {"year": 2023, "category": "Best Supporting Actor", "winningMovie": null, "winningPerson": "Ke Huy Quan"},
+    {"year": 2023, "category": "Best Supoorting Actress", "winningMovie": null, "winningPerson": "Jamie Lee Curtis"},
+
+    {"year": 2024, "category": "Best Picture", "winningMovie": "Oppenheimer", "winningPerson": null},
+    {"year": 2024, "category": "Best Director", "winningMovie": null, "winningPerson": "Christopher Nolan"},
+    {"year": 2024, "category": "Best Actor", "winningMovie": null, "winningPerson": "Cillian Murphy"},
+    {"year": 2024, "category": "Best Actress", "winningMovie": null, "winningPerson": "Emma Stone"},
+    {"year": 2024, "category": "Best Supporting Actor", "winningMovie": null, "winningPerson": "Robert Downey Jr"},
+    {"year": 2024, "category": "Best Supoorting Actress", "winningMovie": null, "winningPerson": "Da'Vine Joy Randolph"}
+]

@@ -1,0 +1,31 @@
+[
+    { "year": 2020, "name": "Bong Joon-ho", "category": "Best Director", "movie": "Parasite" },
+    { "year": 2020, "name": "Joaquin Phoenix", "category": "Best Actor", "movie": "Joker" },
+    { "year": 2020, "name": "Renée Zellweger", "category": "Best Actress", "movie": "Judy" },
+    { "year": 2020, "name": "Brad Pitt", "category": "Best Supporting Actor", "movie": "Once Upon a Time in Hollywood" },
+    { "year": 2020, "name": "Laura Dern", "category": "Best Supporting Actress", "movie": "Marriage Story" },
+
+    { "year": 2021, "name": "Chloé Zhao", "category": "Best Director", "movie": "Nomadland" },
+    { "year": 2021, "name": "Anthony Hopkins", "category": "Best Actor", "movie": "The Father" },
+    { "year": 2021, "name": "Frances McDormand", "category": "Best Actress", "movie": "Nomadland" },
+    { "year": 2021, "name": "Daniel Kaluuya", "category": "Best Supporting Actor", "movie": "Judas and the Black Messiah" },
+    { "year": 2021, "name": "Youn Yuh-jung", "category": "Best Supporting Actress", "movie": "Minari" },
+
+    { "year": 2022, "name": "Jane Campion", "category": "Best Director", "movie": "The Power of the Dog" },
+    { "year": 2022, "name": "Will Smith", "category": "Best Actor", "movie": "King Richard" },
+    { "year": 2022, "name": "Jessica Chastain", "category": "Best Actress", "movie": "The Eyes of Tammy Faye" },
+    { "year": 2022, "name": "Troy Kotsur", "category": "Best Supporting Actor", "movie": "CODA" },
+    { "year": 2022, "name": "Ariana DeBose", "category": "Best Supporting Actress", "movie": "West Side Story" },
+
+    { "year": 2023, "name": "Daniel Kwan & Daniel Scheinert", "category": "Best Director", "movie": "Everything Everywhere All at Once" },
+    { "year": 2023, "name": "Brendan Fraser", "category": "Best Actor", "movie": "The Whale" },
+    { "year": 2023, "name": "Michelle Yeoh", "category": "Best Actress", "movie": "Everything Everywhere All at Once" },
+    { "year": 2023, "name": "Ke Huy Quan", "category": "Best Supporting Actor", "movie": "Everything Everywhere All at Once" },
+    { "year": 2023, "name": "Jamie Lee Curtis", "category": "Best Supporting Actress", "movie": "Everything Everywhere All at Once" },
+
+    { "year": 2024, "name": "Christopher Nolan", "category": "Best Director", "movie": "Oppenheimer" },
+    { "year": 2024, "name": "Cillian Murphy", "category": "Best Actor", "movie": "Oppenheimer" },
+    { "year": 2024, "name": "Emma Stone", "category": "Best Actress", "movie": "Poor Things" },
+    { "year": 2024, "name": "Robert Downey Jr.", "category": "Best Supporting Actor", "movie": "Oppenheimer" },
+    { "year": 2024, "name": "Da'Vine Joy Randolph", "category": "Best Supporting Actress", "movie": "The Holdovers" }
+]

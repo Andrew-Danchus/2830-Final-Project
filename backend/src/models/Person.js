@@ -1,11 +1,10 @@
 const mongoose = require("mongoose");
 
 const PersonSchema = new mongoose.Schema({
-    name: { type: String, required: true },
-    nominations: { type: Number, default: 0 },
-    wins: { type: Number, default: 0 },
-    category: { type: String },
-    movie: { type: String }
+    year: Number,
+    name: String,
+    category: String,
+    movie: String
 });
 
 module.exports = mongoose.model("Person", PersonSchema);

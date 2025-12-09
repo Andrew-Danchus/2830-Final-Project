@@ -1,0 +1,56 @@
+[
+    {"title": "Parasite", "image": "/images/Parasite.jpg", "genre": "Thriller", "year": 2020, "director": "Bong Joon Ho", "win": true},
+    {"title": "Ford V Ferrari", "image": "/images/Ford V Ferrari.jpg", "genre": "Action", "year": 2020, "director": "James Mangold", "win": false},
+    {"title": "The Irishman", "image": "/images/Irish.jpg", "genre": "Crime", "year": 2020, "director": "Martin Scorsese", "win": false},
+    {"title": "Jojo Rabbit", "image": "/images/Jojo.jpg", "genre": "Comedy", "year": 2020, "director": "Taika Waititi", "win": false},
+    {"title": "Joker", "image": "/images/Joker.jpg", "genre": "Thriller", "year": 2020, "director": "Todd Phillips", "win": false},
+    {"title": "Little Women", "image": "/images/LittleWomen.jpg", "genre": "Drama", "year": 2020, "director": "Greta Gerwig", "win": false},
+    {"title": "Marriage Story", "image": "/images/Marriage.jpg", "genre": "Romance", "year": 2020, "director": "Noah Baumbach", "win": false},
+    {"title": "1917", "image": "/images/1917.jpg", "genre": "War", "year": 2020, "director": "Sam Mendes", "win": false},
+    {"title": "Once Upon A Time... In Hollywood", "image": "/images/Hollywood.jpg", "genre": "Comedy", "year": 2020, "director": "Quentin Tarantino", "win": false},
+
+    {"title": "Nomadland", "image": "/images/nomadland.jpg", "genre": "Drama", "year": 2021, "director": "Chloé Zhao", "win": true},
+    {"title": "The Father", "image": "/images/TheFather.jpg", "genre": "Drama", "year": 2021, "director": "Florian Zeller", "win": false},
+    {"title": "Judas and the Black Messiah", "image": "/images/Judas.jpg", "genre": "Drama", "year": 2021, "director": "Shaka King", "win": false},
+    {"title": "Mank", "image": "/images/mank.jpg", "genre": "Drama", "year": 2021, "director": "David Fincher", "win": false},
+    {"title": "Minari", "image": "/images/minari.jpg", "genre": "Drama", "year": 2021, "director": "Lee Isaac Chung", "win": false},
+    {"title": "Promising Young Woman", "image": "/images/promising.jpg", "genre": "Thriller/Drama", "year": 2021, "director": "Emerald Fennell", "win": false},
+    {"title": "Sound of Metal", "image": "/images/sound.jpg", "genre": "Drama", "year": 2021, "director": "Darius Marder", "win": false},
+    {"title": "The Trial of the Chicago 7", "image": "/images/trial.jpg", "genre": "Drama", "year": 2021, "director": "Aaron Sorkin", "win": false},
+
+    
+    {"title": "CODA", "image": "/images/coda.jpg", "genre": "Drama", "year": 2022, "director": "Siân Heder", "win": true},
+    {"title": "The Power of the Dog", "image": "/images/power.jpg", "genre": "Drama/Western", "year": 2022, "director": "Jane Campion", "win": false},
+    {"title": "Belfast", "image": "/images/belfast.jpg", "genre": "Drama", "year": 2022, "director": "Kenneth Branagh", "win": false},
+    {"title": "Drive My Car", "image": "/images/drive.jpg", "genre": "Drama", "year": 2022, "director": "Ryusuke Hamaguchi", "win": false},
+    {"title": "King Richard", "image": "/images/king.jpg", "genre": "Drama", "year": 2022, "director": "Reinaldo Marcus Green", "win": false},
+    {"title": "Don't Look Up", "image": "/images/look.jpg", "genre": "Comedy/Drama", "year": 2022, "director": "Adam McKay", "win": false},
+    {"title": "Dune", "image": "/images/dune.jpg", "genre": "Sci-Fi", "year": 2022, "director": "Denis Villeneuve", "win": false},
+    {"title": "Nightmare Alley", "image": "/images/alley.jpg", "genre": "Thriller", "year": 2022, "director": "Guillermo del Toro", "win": false},
+    {"title": "Licorice Pizza", "image": "/images/licorice.jpg", "genre": "Comedy/Drama", "year": 2022, "director": "Paul Thomas Anderson", "win": false},
+    {"title": "West Side Story", "image": "/images/west.jpg", "genre": "Musical", "year": 2022, "director": "Steven Spielberg", "win": false},
+
+    
+    {"title": "Everything Everywhere All at Once", "image": "/images/EEAAO.jpg", "genre": "Sci-Fi/Comedy", "year": 2023, "director": "Daniel Kwan & Daniel Scheinert", "win": true},
+    {"title": "All Quiet on the Western Front", "image": "/images/allquietonthewesternfront.jpg", "genre": "War/Drama", "year": 2023, "director": "Edward Berger", "win": false},
+    {"title": "Avatar: The Way of Water", "image": "/images/Avatar.jpg", "genre": "Sci-Fi", "year": 2023, "director": "James Cameron", "win": false},
+    {"title": "The Banshees of Inisherin", "image": "/images/banshee.jpg", "genre": "Drama/Dark Comedy", "year": 2023, "director": "Martin McDonagh", "win": false},
+    {"title": "Elvis", "image": "/images/elvis.jpg", "genre": "Biography/Drama", "year": 2023, "director": "Baz Luhrmann", "win": false},
+    {"title": "The Fabelmans", "image": "/images/fabelmans.jpg", "genre": "Drama", "year": 2023, "director": "Steven Spielberg", "win": false},
+    {"title": "Tár", "image": "/images/tar.jpg", "genre": "Drama", "year": 2023, "director": "Todd Field", "win": false},
+    {"title": "Top Gun: Maverick", "image": "/images/top gun.jpg", "genre": "Action", "year": 2023, "director": "Joseph Kosinski", "win": false},
+    {"title": "Triangle of Sadness", "image": "/images/triangle.jpg", "genre": "Comedy/Drama", "year": 2023, "director": "Ruben Östlund", "win": false},
+    {"title": "Women Talking", "image": "/images/womentalking.jpg", "genre": "Drama", "year": 2023, "director": "Sarah Polley", "win": false},
+
+    
+    {"title": "Oppenheimer", "image": "/images/oppenheimer.jpg", "genre": "Drama/Biography", "year": 2024, "director": "Christopher Nolan", "win": true},
+    {"title": "American Fiction", "image": "/images/fiction.jpg", "genre": "Comedy/Drama", "year": 2024, "director": "Cord Jefferson", "win": false},
+    {"title": "Anatomy of a Fall", "image": "/images/anatomy.jpg", "genre": "Drama/Thriller", "year": 2024, "director": "Justine Triet", "win": false},
+    {"title": "Barbie", "image": "/images/barbie.jpg", "genre": "Comedy/Fantasy", "year": 2024, "director": "Greta Gerwig", "win": false},
+    {"title": "The Holdovers", "image": "/images/holdovers.jpg", "genre": "Comedy/Drama", "year": 2024, "director": "Alexander Payne", "win": false},
+    {"title": "Killers of the Flower Moon", "image": "/images/killers.jpg", "genre": "Crime/Drama", "year": 2024, "director": "Martin Scorsese", "win": false},
+    {"title": "Maestro", "image": "/images/maestro.jpg", "genre": "Biography/Drama", "year": 2024, "director": "Bradley Cooper", "win": false},
+    {"title": "Past Lives", "image": "/images/past live.jpg", "genre": "Romance/Drama", "year": 2024, "director": "Celine Song", "win": false},
+    {"title": "Poor Things", "image": "/images/poor things.jpg", "genre": "Fantasy/Drama", "year": 2024, "director": "Yorgos Lanthimos", "win": false},
+    {"title": "The Zone of Interest", "image": "/images/thezone.jpg", "genre": "War/Drama", "year": 2024, "director": "Jonathan Glazer", "win": false}
+]
